@@ -14,8 +14,6 @@ class ConsoleKeynote
 
   def print_to_the_console
     call_the_split_class = SplitTheFile.new.make_the_file_into_array(@get_the_file)
-
-    
   end
 end
 
